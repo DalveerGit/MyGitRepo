@@ -1,2 +1,2 @@
 # MyGitRepo
-This for learn and  git experience
+This is for learn and  git experience
